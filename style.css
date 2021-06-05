@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+
+}
+main p{color:	#992667;  }
+
+a{text-decoration: none; border: 2px solid #04819E;}
+
+.social{
+    border-radius: 50%;
+    border: 2px solid #A3295C;
+    }
+    nav{margin-top:50px ;
+    
+    }
+
+
+   
+    h1{color:#992667 ; background-color: 
+    	#04819E ; border:3px solid #992667 ;}
+
+li{color:#992667 ;}
+ul{border:2px solid  #04819E;}
+
+h2{color:#04819E; background-color: #992667 
+    	 ; border:3px solid #992667 ;}
